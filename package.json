@@ -1,0 +1,11 @@
+{
+  "name": "volta-electrical",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
